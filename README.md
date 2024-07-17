@@ -28,3 +28,10 @@ Clients want to create a road accidents dashboard for year 2021 and 2022 so that
 
   --
 
+  ## 3. conclusion
+
+  --
+  Most road accidents are occuring in single way street on rainy days. So govt must look forward and do make some important rule to overcome those
+  issue. More toward those car driver they are mostly cause problem on roads
+  --
+
