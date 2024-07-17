@@ -9,7 +9,8 @@ The analysis covers various aspects such as the frequency of accidents, types of
 
 --
 Here is the dashboard of Powerbi 
-https://github.com/AnithPrakash/Road-accident-/issues/1#issue-2413939825
+![Screenshot 2024-07-17 193030](https://github.com/user-attachments/assets/4273deb3-18eb-4502-9d09-916c935ee005)
+![Screenshot 2024-07-17 193119](https://github.com/user-attachments/assets/d2b27f7f-7d33-4501-b3a3-858066c683e3)
 
 
 
